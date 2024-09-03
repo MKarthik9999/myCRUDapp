@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 $servername = "database-2.c9ma6ocoedh5.eu-west-2.rds.amazonaws.com"; // Database server address
 $username = "admin";        // Database username
-$password = "MohanRaj143";            // Database password
+$password = "";            // Database password
 $database = "customer_details"; // Name of your database
 
 // Create a connection
